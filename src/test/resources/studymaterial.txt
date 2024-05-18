@@ -1,0 +1,5 @@
+**** Good Read ****
+
+JSONPath - XPath or JSONPath			- https://goessner.net/articles/JsonPath/index.html#e2
+Groovy path -             				- https://groovy-lang.org/processing-xml.html#_gpath
+learn How the properties get loaded 	- 
